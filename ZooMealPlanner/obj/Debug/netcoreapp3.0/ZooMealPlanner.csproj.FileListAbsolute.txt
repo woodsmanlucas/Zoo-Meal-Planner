@@ -1,0 +1,11 @@
+C:\Users\Johnl\source\repos\ZooMealPlanner\ZooMealPlanner\bin\Debug\netcoreapp3.0\ZooMealPlanner.exe
+C:\Users\Johnl\source\repos\ZooMealPlanner\ZooMealPlanner\bin\Debug\netcoreapp3.0\ZooMealPlanner.deps.json
+C:\Users\Johnl\source\repos\ZooMealPlanner\ZooMealPlanner\bin\Debug\netcoreapp3.0\ZooMealPlanner.runtimeconfig.json
+C:\Users\Johnl\source\repos\ZooMealPlanner\ZooMealPlanner\bin\Debug\netcoreapp3.0\ZooMealPlanner.runtimeconfig.dev.json
+C:\Users\Johnl\source\repos\ZooMealPlanner\ZooMealPlanner\bin\Debug\netcoreapp3.0\ZooMealPlanner.dll
+C:\Users\Johnl\source\repos\ZooMealPlanner\ZooMealPlanner\bin\Debug\netcoreapp3.0\ZooMealPlanner.pdb
+C:\Users\Johnl\source\repos\ZooMealPlanner\ZooMealPlanner\obj\Debug\netcoreapp3.0\ZooMealPlanner.csprojAssemblyReference.cache
+C:\Users\Johnl\source\repos\ZooMealPlanner\ZooMealPlanner\obj\Debug\netcoreapp3.0\ZooMealPlanner.AssemblyInfoInputs.cache
+C:\Users\Johnl\source\repos\ZooMealPlanner\ZooMealPlanner\obj\Debug\netcoreapp3.0\ZooMealPlanner.AssemblyInfo.cs
+C:\Users\Johnl\source\repos\ZooMealPlanner\ZooMealPlanner\obj\Debug\netcoreapp3.0\ZooMealPlanner.dll
+C:\Users\Johnl\source\repos\ZooMealPlanner\ZooMealPlanner\obj\Debug\netcoreapp3.0\ZooMealPlanner.pdb
